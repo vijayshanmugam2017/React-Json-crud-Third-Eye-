@@ -1,0 +1,32 @@
+{
+  "books": [
+    {
+      "id": "c987a7d3-8673-4203-87b0-103e556d0789",
+      "title": "Wings of Fire",
+      "author": "Tiwari Arun",
+      "price": "295",
+      "category": "Biography"
+    },
+    {
+      "id": "f665c626-d131-4c7e-90bf-bfea8d05a2c7",
+      "title": "Strom and Silence",
+      "author": "Robert Thier",
+      "price": "250",
+      "category": "Fiction"
+    },
+    {
+      "id": "c1a85346-c29a-4f22-a52e-408c72123485",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": "245",
+      "category": "Novel"
+    },
+    {
+      "id": "2ada011f-fef6-4784-beed-cbcf6b320a9b",
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "price": "285",
+      "category": "Biography"
+    }
+  ]
+}
